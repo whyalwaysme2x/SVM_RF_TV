@@ -1,0 +1,614 @@
+price,spec_Backlight_Type,spec_Brand,spec_Display_Type,spec_ENERGY_STAR_Certified,spec_High_Dynamic_Range_HDR,spec_LED_Panel_Type,spec_Model_Year,spec_Refresh_Rate,spec_Remote_Control_Type,spec_Resolution,spec_Screen_Size_Class
+139.99,Direct Lit,Pioneer,LED,No,Yes,Standard LED,2023,60,Voice control,4K (2160p),43
+99.99,Direct Lit,TCL,LED,No,No,Standard LED,2025,144,Standard,Full HD (1080p),40
+109.99,Direct Lit,Insignia,LED,No,No,Standard LED,2025,120,Voice control,Full HD (1080p),40
+199.99,Direct Lit,Insignia,LED,No,Yes,Standard LED,2025,120,Voice control,4K (2160p),55
+189.99,Direct Lit,Pioneer,LED,No,Yes,Standard LED,2023,60,Voice control,4K (2160p),50
+529.99,None,LG,OLED,Yes,Yes,None_OLED,2025,120,Magic,4K (2160p),48
+229.99,Direct Lit,Samsung,LED,No,Yes,Standard LED,2025,60,Standard,4K (2160p),50
+279.99,Direct Lit,Samsung,LED,No,Yes,Standard LED,2025,60,Standard,4K (2160p),55
+74.99,None,Toshiba,LCD,No,No,None_OLED,2024,120,Voice control,HD (720p),32
+179.99,Direct Lit,Insignia,LED,No,Yes,Standard LED,2025,120,Voice control,4K (2160p),50
+199.99,Direct Lit,Samsung,LED,No,Yes,Standard LED,2025,120,Standard,4K (2160p),43
+479.99,Direct Lit,Samsung,LED,No,Yes,Standard LED,2025,60,Standard,4K (2160p),75
+499.99,Edge Lit,Samsung,LED,No,Yes,QLED,2025,144,Standard,4K (2160p),65
+299.99,Direct Lit,Insignia,LED,No,Yes,Standard LED,2025,120,Voice control,4K (2160p),65
+69.99,Direct Lit,Insignia,LED,No,No,Standard LED,2025,60,Voice control,HD (720p),24
+369.99,Direct Lit,LG,LED,No,Yes,Standard LED,2025,60,Standard,4K (2160p),65
+149.99,Direct Lit,Insignia,LED,No,Yes,Standard LED,2025,60,Voice control,4K (2160p),43
+399.99,Direct Lit,Samsung,LED,No,Yes,Standard LED,2025,60,Standard,4K (2160p),65
+149.99,Direct Lit,Toshiba,LED,No,Yes,Standard LED,2025,120,Voice control,4K (2160p),43
+89.99,Direct Lit,Insignia,LED,No,No,Standard LED,2025,60,Voice control,Full HD (1080p),32
+399.99,Direct Lit,Samsung,LED,No,Yes,Standard LED,2025,60,Standard,4K (2160p),70
+299.99,Direct Lit,Pioneer,LED,No,Yes,Standard LED,2025,120,"IR, Standard",4K (2160p),65
+229.99,Direct Lit,Insignia,LED,No,Yes,QLED,2025,60,Voice control,4K (2160p),55
+74.99,Direct Lit,Insignia,LED,No,No,Standard LED,2025,60,Voice control,Full HD (1080p),24
+1399.99,None,LG,OLED,Yes,Yes,None_OLED,2025,120,Magic,4K (2160p),65
+479.99,Direct Lit,LG,LED,No,Yes,Standard LED,2025,60,Standard,4K (2160p),75
+349.99,Direct Lit,Insignia,LED,No,Yes,Standard LED,2025,60,Voice control,4K (2160p),70
+99.99,Direct Lit,Insignia,LED,No,No,Standard LED,2025,120,Voice control,HD (720p),32
+399.99,Edge Lit,Samsung,LED,No,Yes,QLED,2025,60,Standard,4K (2160p),55
+229.99,Direct Lit,LG,LED,No,Yes,Standard LED,2025,120,Standard,4K (2160p),50
+299.99,Direct Lit,Samsung,LED,No,Yes,Standard LED,2025,120,Standard,4K (2160p),58
+199.99,Direct Lit,LG,LED,No,Yes,Standard LED,2025,60,Standard,4K (2160p),43
+229.99,Direct Lit,TCL,LED,No,Yes,Standard LED,2025,120,Standard,4K (2160p),58
+599.99,Direct Lit,Insignia,LED,No,Yes,Standard LED,2025,60,Voice control,4K (2160p),85
+449.99,Direct Lit,Toshiba,LED,No,Yes,Standard LED,2025,60,Voice control,4K (2160p),75
+259.99,Direct Lit,Roku,LED,No,Yes,Standard LED,2025,144,Voice control,4K (2160p),50
+399.99,Direct Lit,Insignia,LED,No,Yes,Standard LED,2025,144,Voice control,4K (2160p),75
+109.99,Direct Lit,Toshiba,LED,No,Yes,Standard LED,2025,120,Voice control,Full HD (1080p),40
+699.99,Direct Lit,Samsung,LED,No,Yes,Standard LED,2025,60,Standard,4K (2160p),85
+1999.99,None,LG,OLED,Yes,Yes,None_OLED,2025,120,Magic,4K (2160p),77
+599.99,Direct Lit,Samsung,LED,No,Yes,QLED,2025,60,Standard,4K (2160p),75
+179.99,Direct Lit,Samsung,LED,No,Yes,Standard LED,2025,120,Standard,Full HD (1080p),32
+349.99,Direct Lit,Insignia,LED,No,Yes,QLED,2025,60,Voice control,4K (2160p),65
+699.99,Edge Lit,Samsung,LED,No,Yes,QLED,2025,60,Standard,4K (2160p),75
+229.99,Direct Lit,Roku,LED,No,Yes,Standard LED,2025,60,Voice control,4K (2160p),43
+949.99,None,Samsung,OLED,Yes,Yes,None_OLED,2025,120,Standard,4K (2160p),65
+379.99,Full Array Local Dimming,TCL,LED,No,Yes,Mini-LED QLED,2025,60,Standard,4K (2160p),55
+499.99,Full Array Local Dimming,TCL,LED,No,Yes,Mini-LED QLED,2025,144,Standard,4K (2160p),65
+89.99,Direct Lit,Hisense,LED,No,No,Standard LED,2025,60,Standard,HD (720p),32
+309.99,Direct Lit,LG,LED,No,Yes,Standard LED,2025,120,Standard,4K (2160p),55
+799.99,Direct Lit,LG,LED,No,Yes,Standard LED,2025,60,Standard,4K (2160p),86
+199.99,Direct Lit,Pioneer,LED,No,Yes,Standard LED,2023,120,Voice control,4K (2160p),55
+249.99,Direct Lit,Samsung,LED,No,Yes,Standard LED,2025,120,Standard,4K (2160p),43
+199.99,Direct Lit,TCL,LED,No,Yes,Standard LED,2025,60,"Standard, Voice control",4K (2160p),55
+149.99,Direct Lit,TCL,LED,No,Yes,QLED,2025,144,Standard,Full HD (1080p),40
+124.99,Direct Lit,LG,LED,No,Yes,Standard LED,2024,120,Standard,HD (720p),32
+349.99,Direct Lit,Pioneer,LED,No,Yes,Standard LED,2025,144,"IR, Standard",4K (2160p),70
+199.99,Direct Lit,Hisense,LED,No,Yes,QLED,2025,120,Voice control,4K (2160p),50
+379.99,Edge Lit,Samsung,LED,No,Yes,QLED,2025,120,Standard,4K (2160p),50
+199.99,Direct Lit,Samsung,LED,No,Yes,Standard LED,2025,144,Standard,Full HD (1080p),40
+399.99,Direct Lit,Roku,LED,No,Yes,Standard LED,2025,60,Voice control,4K (2160p),65
+449.99,Direct Lit,Insignia,LED,No,Yes,QLED,2025,60,Voice control,4K (2160p),75
+349.99,Direct Lit,Samsung,LED,No,Yes,QLED,2025,60,Standard,4K (2160p),55
+899.99,Direct Lit,Samsung,LED,No,Yes,Standard LED,2025,60,Standard,4K (2160p),85
+219.99,Direct Lit,Pioneer,LED,No,Yes,Standard LED,2025,60,"IR, Standard",4K (2160p),55
+279.99,Direct Lit,TCL,LED,No,Yes,QLED,2024,60,"Standard, Voice control",4K (2160p),55
+499.99,Full Array Local Dimming,TCL,LED,No,Yes,Mini-LED QLED,2025,144,Voice control,4K (2160p),55
+299.99,Direct Lit,TCL,LED,No,Yes,Standard LED,2025,120,"Standard, Voice control",4K (2160p),65
+269.99,Direct Lit,Samsung,LED,No,Yes,Standard LED,2025,60,Standard,4K (2160p),50
+999.99,None,LG,OLED,Yes,Yes,None_OLED,2025,120,Magic,4K (2160p),65
+1299.99,Edge Lit,Samsung,LED,No,Yes,QLED,2024,120,"Smart, Voice control",4K (2160p),65
+139.99,Direct Lit,TCL,LED,No,Yes,QLED,2025,60,Standard,Full HD (1080p),32
+429.99,Direct Lit,Samsung,LED,No,Yes,Standard LED,2025,120,Standard,4K (2160p),65
+799.99,Edge Lit,Samsung,LED,No,Yes,Mini-LED,2025,120,Standard,4K (2160p),65
+349.99,Edge Lit,Samsung,LED,No,Yes,QLED,2025,60,Standard,4K (2160p),43
+1199.99,None,LG,OLED,Yes,Yes,None_OLED,2025,120,Magic,4K (2160p),55
+649.99,Full Array Local Dimming,TCL,LED,No,Yes,Mini-LED QLED,2025,144,Voice control,4K (2160p),65
+149.99,Direct Lit,Samsung,LED,No,Yes,Standard LED,2025,120,Standard,HD (720p),32
+349.99,Full Array Local Dimming,TCL,LED,No,Yes,Mini-LED QLED,2025,60,Standard,4K (2160p),50
+999.99,Edge Lit,Samsung,LED,No,Yes,Mini-LED,2025,120,Standard,4K (2160p),75
+1999.99,None,LG,OLED,Yes,Yes,None_OLED,2025,120,Magic,4K (2160p),65
+299.99,Direct Lit,Roku,LED,No,Yes,Standard LED,2025,144,Voice control,4K (2160p),55
+169.99,Direct Lit,Hisense,LED,No,Yes,QLED,2025,120,Voice control,4K (2160p),43
+946.99,None,LG,OLED,Yes,Yes,None_OLED,2025,120,Magic,4K (2160p),48
+649.99,Full Array Local Dimming,TCL,LED,No,Yes,Mini-LED QLED,2025,60,Standard,4K (2160p),75
+209.99,Direct Lit,Toshiba,LED,No,Yes,Standard LED,2025,60,Voice control,4K (2160p),50
+219.99,Direct Lit,TCL,LED,No,Yes,QLED,2024,120,"Standard, Voice control",4K (2160p),43
+379.99,Direct Lit,TCL,LED,No,Yes,QLED,2024,120,"Standard, Voice control",4K (2160p),65
+999.99,Edge Lit,Samsung,LED,No,Yes,QLED,2024,120,"Smart, Voice control",4K (2160p),55
+1099.99,Full Array Local Dimming,TCL,LED,No,Yes,Mini-LED QLED,2025,144,Voice control,4K (2160p),85
+149.99,Direct Lit,TCL,LED,No,Yes,Standard LED,2025,120,"Standard, Voice control",4K (2160p),43
+1699.99,Direct Lit,Samsung,LED,No,Yes,Standard LED,2024,120,Standard,4K (2160p),98
+99.99,Direct Lit,Insignia,LED,No,No,Standard LED,2025,120,Voice control,Full HD (1080p),32
+1599.99,None,Samsung,OLED,Yes,Yes,None_OLED,2025,120,Standard,4K (2160p),65
+399.99,Direct Lit,Samsung,LED,No,Yes,Standard LED,2025,60,Standard,4K (2160p),58
+499.99,Direct Lit,Sony,LED,No,Yes,Standard LED,2025,60,Voice control,4K (2160p),55
+849.99,Full Array Local Dimming,TCL,LED,No,Yes,Mini-LED QLED,2025,144,Voice control,4K (2160p),75
+229.99,Direct Lit,Toshiba,LED,No,Yes,Standard LED,2025,60,Voice control,4K (2160p),55
+1599.99,None,Samsung,OLED,Yes,Yes,None_OLED,2025,120,Standard,4K (2160p),77
+259.99,Direct Lit,Hisense,LED,No,Yes,QLED,2025,120,Voice control,4K (2160p),55
+649.99,Direct Lit,Toshiba,LED,No,Yes,Standard LED,2025,120,Voice control,4K (2160p),85
+699.99,Full Array Local Dimming,TCL,LED,No,Yes,Mini-LED QLED,2025,144,"Backlit, Voice control",4K (2160p),55
+399.99,Direct Lit,LG,LED,No,Yes,Standard LED,2025,60,Standard,4K (2160p),65
+599.99,Direct Lit,Samsung,LED,No,Yes,Standard LED,2025,60,Standard,4K (2160p),75
+499.99,Direct Lit,Roku,LED,No,Yes,Standard LED,2025,60,Voice control,4K (2160p),75
+329.99,Direct Lit,Toshiba,LED,No,Yes,Standard LED,2025,60,Voice control,4K (2160p),65
+549.99,Direct Lit,Samsung,LED,No,Yes,Standard LED,2025,120,Standard,4K (2160p),70
+999.99,Edge Lit,Samsung,LED,No,Yes,QLED,2025,120,Standard,4K (2160p),75
+1499.99,None,LG,OLED,Yes,Yes,None_OLED,2025,120,Magic,4K (2160p),77
+229.99,Direct Lit,LG,LED,No,Yes,Standard LED,2025,120,Standard,4K (2160p),43
+349.99,Direct Lit,Samsung,LED,No,Yes,Standard LED,2025,120,Standard,4K (2160p),55
+109.99,Direct Lit,Hisense,LED,No,No,Standard LED,2025,60,Standard,Full HD (1080p),32
+649.99,Edge Lit,Samsung,LED,No,Yes,QLED,2025,120,Standard,4K (2160p),55
+139.99,Direct Lit,Roku,LED,No,No,Standard LED,2024,60,Voice control,Full HD (1080p),32
+599.99,Direct Lit,Sony,LED,No,Yes,Standard LED,2025,120,Voice control,4K (2160p),65
+1999.99,Full Array Local Dimming,Samsung,LED,Yes,Yes,Mini-LED,2025,120,Standard,4K (2160p),75
+269.99,Direct Lit,Roku,LED,No,Yes,Standard LED,2025,120,Standard,4K (2160p),55
+479.99,Edge Lit,Samsung,LED,No,Yes,QLED,2025,120,Standard,4K (2160p),32
+579.99,Edge Lit,Samsung,LED,No,Yes,QLED,2025,120,Standard,4K (2160p),50
+1899.99,Full Array Local Dimming,Samsung,LED,Yes,Yes,Mini-LED,2024,120,"Smart, Voice control",4K (2160p),85
+1299.99,None,Samsung,OLED,Yes,Yes,None_OLED,2025,120,Standard,4K (2160p),55
+519.99,Direct Lit,TCL,LED,No,Yes,QLED,2024,60,"Standard, Voice control",4K (2160p),75
+259.99,Direct Lit,TCL,LED,No,Yes,QLED,2024,120,"Standard, Voice control",4K (2160p),50
+1899.99,Full Array Local Dimming,Samsung,LED,No,Yes,Neo QLED,2025,120,Standard,4K (2160p),65
+169.99,Edge Lit,LG,LED,No,No,Standard LED,2022,60,Standard,HD (720p),24
+1099.99,Full Array Local Dimming,Samsung,LED,No,Yes,QLED,2025,120,Standard,4K (2160p),55
+1499.99,Full Array Local Dimming,Hisense,LED,No,Yes,QLED,2024,144,"Voice control, Backlit",4K (2160p),100
+2599.99,None,Samsung,OLED,Yes,Yes,None_OLED,2025,120,Standard,4K (2160p),65
+1499.99,Direct Lit,TCL,LED,No,Yes,QLED,2024,144,"Standard, Voice control",4K (2160p),98
+896.9,None,LG,OLED,Yes,Yes,None_OLED,2025,120,Magic,4K (2160p),42
+248.99,Direct Lit,LG,LED,No,Yes,QNED,2025,60,Magic,4K (2160p),43
+499.99,Edge Lit,Samsung,LED,No,Yes,QLED,2025,60,Standard,4K (2160p),43
+2299.99,Full Array Local Dimming,Samsung,LED,Yes,Yes,Mini-LED,2025,120,Standard,4K (2160p),85
+999.99,Full Array Local Dimming,Samsung,LED,No,Yes,QLED,2025,60,Standard,4K (2160p),50
+199.99,Direct Lit,LG,LED,No,No,Standard LED,2022,120,Standard,Full HD (1080p),27
+399.99,Direct Lit,Sony,LED,No,Yes,Standard LED,2025,60,Voice control,4K (2160p),43
+499.99,Full Array Local Dimming,Roku,LED,No,Yes,Mini-LED QLED,2025,120,Voice control,4K (2160p),55
+649.99,Full Array Local Dimming,Roku,LED,No,Yes,Mini-LED QLED,2025,144,Voice control,4K (2160p),65
+369.99,Direct Lit,Hisense,LED,No,Yes,QLED,2025,60,Voice control,4K (2160p),65
+799.99,Edge Lit,Samsung,LED,No,Yes,QLED,2025,120,Standard,4K (2160p),65
+899.99,Full Array Local Dimming,Sony,LED,No,Yes,Standard LED,2023,120,Voice control,4K (2160p),65
+1399.99,None,Sony,OLED,No,Yes,None_OLED,2025,120,Voice control,4K (2160p),65
+649.99,Full Array Local Dimming,Hisense,LED,No,Yes,Mini-LED QLED,2025,165,"Voice control, Backlit",4K (2160p),55
+899.99,None,LG,OLED,Yes,Yes,None_OLED,2025,120,Magic,4K (2160p),55
+999.99,Full Array Local Dimming,TCL,LED,No,Yes,Mini-LED QLED,2025,144,"Backlit, Voice control",4K (2160p),65
+1599.99,Full Array Local Dimming,Samsung,LED,Yes,Yes,Mini-LED,2025,120,Standard,4K (2160p),65
+179.99,Direct Lit,Roku,LED,No,No,Standard LED,2025,60,Voice control,Full HD (1080p),32
+729.99,Direct Lit,TCL,LED,Yes,Yes,QLED,2025,120,Standard,4K (2160p),85
+799.99,Edge Lit,TCL,LED,No,Yes,QLED,2024,120,Voice control,4K (2160p),55
+1099.99,None,Sony,OLED,No,Yes,None_OLED,2025,120,Voice control,4K (2160p),55
+449.99,Direct Lit,Sony,LED,No,Yes,Standard LED,2024,60,Voice control,4K (2160p),43
+499.99,Direct Lit,LG,LED,No,Yes,QNED,2025,60,Magic,4K (2160p),65
+499.99,Full Array Local Dimming,Toshiba,LED,No,Yes,QLED,2025,60,Voice control,4K (2160p),75
+799.99,Direct Lit,Sony,LED,No,Yes,Standard LED,2025,60,Voice control,4K (2160p),75
+199.99,Direct Lit,Roku,LED,No,No,Standard LED,2025,144,Voice control,Full HD (1080p),40
+269.99,Direct Lit,LG,LED,No,Yes,Standard LED,2025,120,Standard,4K (2160p),50
+599.99,Direct Lit,LG,LED,No,Yes,Standard LED,2025,120,Standard,4K (2160p),75
+2499.99,Full Array Local Dimming,Samsung,LED,No,Yes,Neo QLED,2025,120,Standard,4K (2160p),75
+209.99,Direct Lit,LG,LED,No,No,Standard LED,2022,120,Standard,Full HD (1080p),27
+899.99,Edge Lit,LG,LED,Yes,Yes,Mini-LED QNED,2025,120,Magic,4K (2160p),75
+379.99,Direct Lit,LG,LED,No,Yes,QNED,2025,120,Magic,4K (2160p),55
+1099.99,Edge Lit,Hisense,LED,No,Yes,QLED,2024,144,"Voice control, Backlit",4K (2160p),65
+3499.99,None,LG,OLED,Yes,Yes,None_OLED,2025,120,Magic,4K (2160p),77
+899.99,Edge Lit,Hisense,LED,No,Yes,QLED,2024,144,"Voice control, Backlit",4K (2160p),55
+469.99,Direct Lit,Sony,LED,No,Yes,Standard LED,2025,60,Voice control,4K (2160p),50
+1699.99,None,Sony,OLED,No,Yes,None_OLED,2024,120,Voice control,4K (2160p),65
+899.99,Full Array Local Dimming,Samsung,LED,No,Yes,QLED,2025,120,Standard,4K (2160p),43
+89.99,Direct Lit,Pioneer,LED,No,No,Standard LED,2024,120,"Standard, IR, Voice control",HD (720p),32
+649.99,Full Array Local Dimming,Hisense,LED,No,Yes,Mini-LED QLED,2025,144,Voice control,4K (2160p),75
+849.99,Direct Lit,TCL,LED,No,Yes,QLED,2024,144,"Standard, Voice control",4K (2160p),85
+1599.99,None,Sony,OLED,No,Yes,None_OLED,2023,120,Voice control,4K (2160p),55
+1299.99,Full Array Local Dimming,TCL,LED,No,Yes,Mini-LED QLED,2025,144,"Backlit, Voice control",4K (2160p),75
+499.99,Direct Lit,Samsung,LED,No,Yes,QLED,2025,120,Standard,4K (2160p),65
+1999.99,None,Samsung,OLED,Yes,Yes,None_OLED,2025,120,Standard,4K (2160p),55
+599.99,Direct Lit,Sony,LED,No,Yes,Standard LED,2024,120,Voice control,4K (2160p),50
+1299.99,None,Samsung,OLED,Yes,Yes,None_OLED,2024,120,"Smart, Voice control",4K (2160p),65
+1299.99,Edge Lit,Samsung,LED,No,Yes,QLED,2025,60,Standard,4K (2160p),85
+649.99,Direct Lit,LG,LED,No,Yes,QNED,2025,60,Magic,4K (2160p),75
+3199.99,None,LG,OLED,Yes,Yes,None_OLED,2025,120,Magic,4K (2160p),83
+999.99,Edge Lit,TCL,LED,No,Yes,QLED,2024,120,Voice control,4K (2160p),65
+779.99,Edge Lit,Samsung,LED,No,Yes,Mini-LED,2025,120,Standard,4K (2160p),55
+699.99,Full Array Local Dimming,Hisense,LED,No,Yes,Mini-LED QLED,2025,144,Voice control,4K (2160p),65
+449.99,Edge Lit,LG,LED,Yes,Yes,QNED,2025,60,Magic,4K (2160p),55
+1399.99,None,Sony,OLED,No,Yes,None_OLED,2024,120,Voice control,4K (2160p),55
+1799.99,Full Array Local Dimming,Samsung,LED,Yes,Yes,Mini-LED,2024,120,"Smart, Voice control",4K (2160p),75
+999.99,Full Array Local Dimming,Samsung,LED,No,Yes,Mini-LED,2025,120,Standard,4K (2160p),65
+1748.9,None,LG,OLED,Yes,Yes,None_OLED,2025,120,Magic,4K (2160p),55
+899.99,Full Array Local Dimming,Samsung,LED,Yes,Yes,Mini-LED,2025,120,Standard,4K (2160p),43
+746.99,Edge Lit,LG,LED,Yes,Yes,Mini-LED QNED,2025,120,Magic,4K (2160p),65
+459.99,Direct Lit,TCL,LED,No,Yes,Standard LED,2025,60,"Standard, Voice control",4K (2160p),75
+549.99,Edge Lit,LG,LED,Yes,Yes,QNED,2025,120,Magic,4K (2160p),65
+2499.99,None,Samsung,OLED,Yes,Yes,None_OLED,2025,120,Standard,4K (2160p),77
+547.99,Edge Lit,Samsung,LED,No,Yes,QLED,2023,120,"Smart, Voice control",Full HD (1080p),32
+249.99,Direct Lit,Roku,LED,No,Yes,Standard LED,2025,60,Standard,4K (2160p),50
+2096.99,Edge Lit,Samsung,LED,No,Yes,QLED,2024,120,"Smart, Voice control",4K (2160p),75
+1699.99,Direct Lit,Samsung,LED,Yes,Yes,Standard LED,2025,120,IR,4K (2160p),98
+299.99,Direct Lit,Sony,LED,No,Yes,Standard LED,2022,120,Voice control,HD (720p),32
+379.99,Full Array Local Dimming,Toshiba,LED,No,Yes,QLED,2025,60,Voice control,4K (2160p),65
+299.99,Full Array Local Dimming,Toshiba,LED,No,Yes,QLED,2025,60,Voice control,4K (2160p),55
+649.99,Direct Lit,Sony,LED,No,Yes,Standard LED,2024,60,Voice control,4K (2160p),55
+2099.99,None,Sony,OLED,No,Yes,None_OLED,2025,120,Voice control,4K (2160p),77
+799.99,Full Array Local Dimming,Hisense,LED,No,Yes,Mini-LED QLED,2025,144,Voice control,4K (2160p),75
+349.99,Direct Lit,LG,LED,No,Yes,QNED,2025,60,Magic,4K (2160p),50
+139.99,Direct Lit,Hisense,LED,No,No,Standard LED,2025,144,Standard,Full HD (1080p),40
+1799.99,None,Samsung,OLED,Yes,Yes,None_OLED,2024,120,"Smart, Voice control",4K (2160p),77
+1299.99,None,LG,OLED,Yes,Yes,None_OLED,2024,120,Magic,4K (2160p),65
+399.99,Direct Lit,Roku,LED,No,Yes,Standard LED,2025,60,Standard,4K (2160p),65
+2599.99,None,Sony,OLED,No,Yes,None_OLED,2024,120,Voice control,4K (2160p),77
+1199.99,None,Samsung,OLED,Yes,Yes,None_OLED,2025,120,Standard,4K (2160p),65
+419.99,Direct Lit,Pioneer,LED,No,Yes,Standard LED,2025,120,"IR, Standard",4K (2160p),75
+1199.99,Full Array Local Dimming,Samsung,LED,Yes,Yes,Mini-LED,2025,120,Standard,4K (2160p),50
+899.99,Full Array Local Dimming,Samsung,LED,No,Yes,Mini-LED,2025,120,Standard,4K (2160p),55
+2999.99,None,Sony,OLED,No,Yes,None_OLED,2025,120,Voice control,4K (2160p),65
+259.99,Direct Lit,TCL,LED,No,Yes,Standard LED,2024,120,"Standard, Voice control",4K (2160p),55
+1399.99,Full Array Local Dimming,Samsung,LED,Yes,Yes,Mini-LED,2025,120,Standard,4K (2160p),55
+799.99,Full Array Local Dimming,Hisense,LED,No,Yes,Mini-LED QLED,2024,60,Voice control,4K (2160p),85
+2799.99,Full Array Local Dimming,Sony,LED,No,Yes,Mini-LED,2024,120,Voice control,4K (2160p),75
+1999.99,None,LG,OLED,Yes,Yes,None_OLED,2025,120,Magic,4K (2160p),83
+161.99,Direct Lit,Insignia,LED,No,Yes,Standard LED,2023,144,"Voice control, Standard, IR",4K (2160p),43
+1599.99,Full Array Local Dimming,Samsung,LED,No,Yes,QLED,2025,120,Standard,4K (2160p),65
+869,Full Array Local Dimming,Hisense,LED,No,Yes,Mini-LED QLED,2025,165,"Voice control, Backlit",4K (2160p),55
+1499.99,Full Array Local Dimming,Samsung,LED,No,Yes,Mini-LED,2025,120,Standard,4K (2160p),75
+1599.99,Edge Lit,Samsung,LED,No,Yes,Mini-LED,2025,120,Standard,4K (2160p),85
+319.99,Direct Lit,Hisense,LED,No,Yes,QLED,2024,144,Voice control,4K (2160p),65
+899.99,Full Array Local Dimming,Roku,LED,No,Yes,Mini-LED QLED,2025,60,Voice control,4K (2160p),75
+1199.99,None,Samsung,OLED,Yes,Yes,None_OLED,2025,120,Standard,4K (2160p),48
+1799.99,Direct Lit,LG,LED,No,Yes,Standard LED,2024,120,Magic,4K (2160p),98
+1999.99,None,Sony,OLED,No,Yes,None_OLED,2023,120,Voice control,4K (2160p),65
+1799.99,Full Array Local Dimming,LG,LED,No,Yes,Mini-LED QNED,2025,120,Magic,4K (2160p),85
+749.99,Direct Lit,Sony,LED,No,Yes,Standard LED,2024,60,Voice control,4K (2160p),65
+1799.99,Full Array Local Dimming,TCL,LED,No,Yes,Mini-LED QLED,2025,144,"Backlit, Voice control",4K (2160p),85
+1599.99,Edge Lit,Samsung,LED,No,Yes,QLED,2025,120,Standard,4K (2160p),85
+549.99,Full Array Local Dimming,Hisense,LED,No,Yes,Mini-LED QLED,2025,144,Voice control,4K (2160p),55
+599.99,Direct Lit,LG,LED,No,Yes,Standard LED,2024,60,Standard,4K (2160p),65
+479.99,Direct Lit,LG,LED,No,Yes,Standard LED,2024,60,Standard,4K (2160p),75
+1099.99,None,Samsung,OLED,Yes,Yes,None_OLED,2025,120,Standard,4K (2160p),42
+149.99,Direct Lit,Toshiba,LED,No,Yes,Standard LED,2025,60,Voice control,Full HD (1080p),43
+3499.99,Full Array Local Dimming,Samsung,LED,No,Yes,Neo QLED,2025,120,Standard,4K (2160p),85
+1999.99,Full Array Local Dimming,Sony,LED,No,Yes,Mini-LED,2025,120,Voice control,4K (2160p),85
+399.99,Edge Lit,LG,LED,Yes,Yes,QNED,2025,120,Magic,4K (2160p),50
+349.99,Full Array Local Dimming,Hisense,LED,No,Yes,Mini-LED QLED,2025,120,Voice control,4K (2160p),50
+1399.99,Direct Lit,Sony,LED,No,Yes,Standard LED,2024,60,Voice control,4K (2160p),85
+349.99,Edge Lit,LG,LED,No,Yes,Standard LED,2023,60,"Magic, Voice control",4K (2160p),65
+1799.99,Full Array Local Dimming,Sony,LED,No,Yes,Mini-LED,2025,120,Voice control,4K (2160p),75
+101.99,Direct Lit,TCL,LED,No,No,Standard LED,2024,144,Standard,HD (720p),32
+1043.99,Full Array Local Dimming,Hisense,LED,No,Yes,Mini-LED QLED,2025,165,"Voice control, Backlit",4K (2160p),65
+379.99,Edge Lit,LG,LED,Yes,Yes,QNED,2025,60,Magic,4K (2160p),43
+1999.99,Full Array Local Dimming,Sony,LED,No,Yes,Mini-LED QLED,2024,120,Voice control,4K (2160p),75
+1499.99,Full Array Local Dimming,TCL,LED,No,Yes,Mini-LED QLED,2025,144,"Backlit, Voice control",4K (2160p),65
+549.99,Direct Lit,Hisense,LED,No,Yes,QLED,2024,144,Voice control,4K (2160p),75
+549.99,Edge Lit,LG,LED,No,Yes,Standard LED,2023,60,"Magic, Voice control",4K (2160p),75
+860.99,Full Array Local Dimming,Roku,LED,No,Yes,Mini-LED QLED,2025,120,"Voice control, Backlit",4K (2160p),55
+899.99,Direct Lit,Roku,LED,No,Yes,Standard LED,2025,60,Voice control,4K (2160p),85
+899.99,Full Array Local Dimming,TCL,LED,No,Yes,Mini-LED QLED,2025,144,Standard,4K (2160p),85
+1799.99,Full Array Local Dimming,Samsung,LED,No,Yes,Mini-LED,2025,120,Standard,4K (2160p),85
+449.99,Direct Lit,Hisense,LED,No,Yes,Standard LED,2024,60,Standard,4K (2160p),75
+999.99,Full Array Local Dimming,Hisense,LED,No,Yes,Mini-LED QLED,2025,144,Voice control,4K (2160p),85
+1199.99,Full Array Local Dimming,Roku,LED,No,Yes,Mini-LED QLED,2025,120,"Voice control, Backlit",4K (2160p),65
+1438.99,Full Array Local Dimming,Hisense,LED,No,Yes,Mini-LED QLED,2025,165,"Voice control, Backlit",4K (2160p),85
+1599.99,Full Array Local Dimming,Hisense,LED,No,Yes,Mini-LED QLED,2025,165,"Voice control, Backlit",4K (2160p),75
+1599.99,Edge Lit,LG,LED,Yes,Yes,Mini-LED QNED,2025,120,Magic,4K (2160p),86
+799.99,Direct Lit,Hisense,LED,No,Yes,QLED,2025,120,Voice control,4K (2160p),85
+949.99,Direct Lit,Sony,LED,No,Yes,Standard LED,2024,120,Voice control,4K (2160p),75
+2499.99,Full Array Local Dimming,Sony,LED,No,Yes,Mini-LED,2024,120,Voice control,4K (2160p),65
+1699.99,Edge Lit,Hisense,LED,No,Yes,QLED,2025,144,"Voice control, Backlit",4K (2160p),75
+549.99,Direct Lit,Hisense,LED,No,Yes,QLED,2025,60,Voice control,4K (2160p),75
+2199.99,Full Array Local Dimming,TCL,LED,No,Yes,Mini-LED QLED,2025,144,Voice control,4K (2160p),98
+1699.99,Edge Lit,TCL,LED,No,Yes,QLED,2024,120,Voice control,4K (2160p),75
+1299.99,Full Array Local Dimming,Sony,LED,No,Yes,Mini-LED QLED,2024,120,Voice control,4K (2160p),55
+649.99,Edge Lit,LG,LED,Yes,Yes,Mini-LED QNED,2025,120,Magic,4K (2160p),55
+1399.99,None,Sony,OLED,No,Yes,None_OLED,2022,120,Voice control,4K (2160p),48
+1299.99,Full Array Local Dimming,Sony,LED,No,Yes,Mini-LED,2025,120,Voice control,4K (2160p),65
+3699.99,Full Array Local Dimming,LG,LED,No,Yes,Mini-LED QNED,2025,120,Magic,4K (2160p),100
+1899.99,Full Array Local Dimming,Samsung,LED,No,Yes,Mini-LED,2024,120,"Smart, Voice control",4K (2160p),75
+169.99,Direct Lit,Hisense,LED,No,No,QLED,2025,120,Standard,Full HD (1080p),40
+499.99,Direct Lit,TCL,LED,No,Yes,Standard LED,2024,60,"Standard, Voice control",4K (2160p),75
+1499.99,Full Array Local Dimming,Sony,LED,No,Yes,Mini-LED QLED,2024,120,Voice control,4K (2160p),65
+1099.99,Full Array Local Dimming,Hisense,LED,No,Yes,Mini-LED QLED,2024,144,"Voice control, Backlit",4K (2160p),75
+649.99,Direct Lit,Hisense,LED,No,Yes,Standard LED,2024,120,Standard,4K (2160p),85
+1499.99,Full Array Local Dimming,Hisense,LED,No,Yes,Mini-LED QLED,2025,165,"Voice control, Backlit",4K (2160p),65
+132.99,Direct Lit,TCL,LED,No,Yes,Standard LED,2023,120,Voice control,Full HD (1080p),32
+499.99,Full Array Local Dimming,Hisense,LED,No,Yes,Mini-LED QLED,2025,120,Voice control,4K (2160p),65
+1499.99,Direct Lit,Hisense,LED,No,Yes,QLED,2025,144,Voice control,4K (2160p),98
+151.99,Direct Lit,TCL,LED,No,Yes,Standard LED,2023,60,Voice control,Full HD (1080p),40
+1699.99,Full Array Local Dimming,Roku,LED,No,Yes,Mini-LED QLED,2025,120,"Voice control, Backlit",4K (2160p),75
+1399.99,Full Array Local Dimming,Hisense,LED,No,Yes,Mini-LED QLED,2025,165,"Voice control, Backlit",4K (2160p),75
+2599.99,Full Array Local Dimming,Sony,LED,No,Yes,Mini-LED QLED,2024,120,Voice control,4K (2160p),85
+247.99,Edge Lit,Samsung,LED,No,No,Standard LED,2019,120,Standard,Full HD (1080p),40
+1199.99,None,Samsung,OLED,Yes,Yes,None_OLED,2025,120,Standard,4K (2160p),55
+749.99,Edge Lit,LG,LED,Yes,Yes,QNED,2025,60,Magic,4K (2160p),75
+2499.99,None,Sony,OLED,No,Yes,None_OLED,2025,120,Voice control,4K (2160p),55
+3499.99,Full Array Local Dimming,Hisense,LED,No,Yes,Mini-LED QLED,2025,165,"Voice control, Backlit",4K (2160p),100
+799.99,Edge Lit,Samsung,LED,No,Yes,QLED,2024,120,"Smart, Voice control",4K (2160p),65
+1799.99,None,Samsung,OLED,Yes,Yes,None_OLED,2025,120,Standard,4K (2160p),77
+2463.99,Full Array Local Dimming,Samsung,LED,No,Yes,Mini-LED,2024,120,"Smart, Voice control",8K (4320p),75
+1299.99,Full Array Local Dimming,Hisense,LED,No,Yes,Mini-LED QLED,2025,144,Voice control,4K (2160p),85
+2499.99,None,Samsung,OLED,Yes,Yes,None_OLED,2025,120,Standard,4K (2160p),83
+510,Direct Lit,Samsung,LED,No,Yes,Standard LED,2024,60,Smart,4K (2160p),55
+1299.99,None,Sony,OLED,No,Yes,None_OLED,2022,120,Voice control,4K (2160p),42
+999.99,None,Samsung,OLED,Yes,Yes,None_OLED,2024,120,"Smart, Voice control",4K (2160p),42
+2299.99,Full Array Local Dimming,Hisense,LED,No,Yes,Mini-LED QLED,2025,165,"Voice control, Backlit",4K (2160p),85
+479.99,Direct Lit,Hisense,LED,No,Yes,QLED,2024,60,Voice control,4K (2160p),75
+399.99,Full Array Local Dimming,Hisense,LED,No,Yes,Mini-LED QLED,2025,120,Voice control,4K (2160p),55
+680.99,Direct Lit,Hisense,LED,No,Yes,QLED,2024,120,Voice control,4K (2160p),85
+1897.99,None,Samsung,OLED,Yes,Yes,None_OLED,2024,120,"Smart, Voice control",4K (2160p),55
+2499.99,Full Array Local Dimming,TCL,LED,No,Yes,Mini-LED QLED,2025,144,"Backlit, Voice control",4K (2160p),85
+1099.99,Full Array Local Dimming,Sony,LED,No,Yes,Mini-LED,2025,120,Voice control,4K (2160p),55
+109.99,Direct Lit,Toshiba,LED,No,Yes,Standard LED,2025,60,Voice control,HD (720p),32
+1299.99,Direct Lit,Samsung,LED,No,Yes,QLED,2025,120,Standard,4K (2160p),85
+996.99,None,LG,OLED,Yes,Yes,None_OLED,2024,120,Magic,4K (2160p),48
+303.99,Direct Lit,LG,LED,No,Yes,Standard LED,2024,60,Standard,4K (2160p),50
+2999.99,None,Samsung,OLED,Yes,Yes,None_OLED,2024,120,"Smart, Voice control",4K (2160p),77
+547.99,None,Panasonic,OLED,No,No,None_OLED,2024,144,Standard,4K (2160p),55
+899.99,Full Array Local Dimming,Hisense,LED,No,Yes,Mini-LED QLED,2024,144,"Voice control, Backlit",4K (2160p),65
+999.99,Direct Lit,TCL,LED,No,Yes,QLED,2024,120,"Standard, Voice control",4K (2160p),85
+1999.99,None,LG,OLED,No,Yes,None_OLED,2024,120,Magic,4K (2160p),55
+949.99,Edge Lit,LG,LED,No,Yes,QNED,2024,120,Magic,4K (2160p),75
+1079.99,None,Samsung,LCD,Yes,Yes,None_OLED,2023,60,Standard,Full HD (1080p),55
+1452.99,Full Array Local Dimming,LG,LED,No,Yes,Mini-LED QNED,2025,120,Magic,4K (2160p),75
+299.99,Direct Lit,Hisense,LED,No,Yes,Standard LED,2025,120,Voice control,4K (2160p),65
+119.99,Edge Lit,Samsung,LED,No,No,Standard LED,2017,60,Standard,HD (720p),32
+490,Direct Lit,Samsung,LED,No,No,Standard LED,2025,144,Standard,4K (2160p),50
+2499.99,Full Array Local Dimming,TCL,LED,No,Yes,Mini-LED QLED,2025,144,"Backlit, Voice control",4K (2160p),75
+390,Direct Lit,Samsung,LED,No,No,Standard LED,2025,60,Standard,4K (2160p),43
+1299.99,None,Sony,OLED,No,Yes,None_OLED,2023,120,Voice control,4K (2160p),65
+499.99,Direct Lit,Sony,LED,No,Yes,Standard LED,2023,60,Voice control,4K (2160p),55
+499.99,None,Philips,LED,No,Yes,Standard LED,2024,60,Standard,4K (2160p),75
+2999.99,Full Array Local Dimming,TCL,LED,No,Yes,Mini-LED QLED,2025,144,"Backlit, Voice control",4K (2160p),85
+1999.99,Full Array Local Dimming,TCL,LED,No,Yes,Mini-LED QLED,2025,144,"Backlit, Voice control",4K (2160p),65
+327.9,Edge Lit,LG,LED,No,Yes,QNED,2024,144,Magic,4K (2160p),43
+1799.99,Full Array Local Dimming,TCL,LED,No,Yes,Mini-LED QLED,2024,144,"Backlit, Voice control",4K (2160p),85
+2897.99,Full Array Local Dimming,Samsung,LED,No,Yes,QLED,2024,120,Standard,4K (2160p),55
+2499.99,Edge Lit,Hisense,LED,No,Yes,QLED,2025,144,"Voice control, Backlit",4K (2160p),85
+1499.99,Direct Lit,TCL,LED,No,Yes,QLED,2025,144,Voice control,4K (2160p),98
+450,Direct Lit,Samsung,LED,No,Yes,Standard LED,2024,120,Smart,4K (2160p),50
+1199.99,Direct Lit,LG,LED,No,Yes,QNED,2025,60,Magic,4K (2160p),86
+449.99,Direct Lit,LG,LED,No,Yes,Standard LED,2022,120,Standard,4K (2160p),70
+909.99,None,Samsung,LCD,Yes,Yes,None_OLED,2023,120,Standard,Full HD (1080p),50
+629.99,Edge Lit,Samsung,LED,No,Yes,Standard LED,2024,120,Standard,4K (2160p),65
+2199.99,Edge Lit,TCL,LED,No,Yes,QLED,2024,120,Voice control,4K (2160p),85
+149.99,None,Philips,LED,No,No,Standard LED,2024,120,Standard,Full HD (1080p),32
+424.99,Edge Lit,Samsung,LED,No,Yes,Standard LED,2024,60,Standard,4K (2160p),55
+2799.99,Full Array Local Dimming,Hisense,LED,No,Yes,Mini-LED QLED,2023,144,Voice control,4K (2160p),100
+712.99,Direct Lit,Samsung,LED,No,Yes,Standard LED,2024,60,Standard,4K (2160p),85
+109.9,None,Westinghouse,LED,No,No,Standard LED,2021,120,Standard,HD (720p),32
+569.99,Full Array Local Dimming,TCL,LED,No,Yes,QLED,2023,120,"Voice control, Backlit",4K (2160p),65
+3354.21,Full Array Local Dimming,Samsung,LED,No,Yes,Mini-LED,2025,120,"Smart, Voice control",8K (4320p),75
+209.99,None,Supersonic,LED,No,No,Standard LED,2024,144,Standard,HD (720p),19
+1196.99,None,LG,OLED,Yes,Yes,None_OLED,2024,120,Magic,4K (2160p),55
+1450,None,Samsung,LCD,Yes,Yes,None_OLED,2023,120,Standard,4K (2160p),65
+1099.99,Full Array Local Dimming,LG,LED,Yes,Yes,Mini-LED QNED,2024,120,Magic,4K (2160p),75
+2718.9,None,LG,OLED,Yes,Yes,None_OLED,2024,120,Magic,4K (2160p),83
+369.99,Direct Lit,TCL,LED,No,Yes,Standard LED,2024,60,"Standard, Voice control",4K (2160p),65
+149.99,None,Copeland,LCD,No,No,None_OLED,2024,60,Standard,HD (720p),13
+259.99,None,Philips,LED,No,Yes,Standard LED,2024,120,Standard,4K (2160p),55
+989.99,None,LG,OLED,Yes,Yes,None_OLED,2024,120,Magic,4K (2160p),55
+1299.99,Edge Lit,LG,LED,Yes,Yes,QNED,2025,120,Magic,4K (2160p),86
+149.99,None,Westinghouse,LED,No,No,Standard LED,2021,120,Standard,HD (720p),32
+249.99,Direct Lit,Westinghouse,LED,No,Yes,Standard LED,2021,120,Multifunction,4K (2160p),43
+247.99,Edge Lit,Samsung,LED,No,No,Standard LED,2018,120,Standard,HD (720p),32
+299.99,None,Philips,LED,No,Yes,Standard LED,2024,60,Standard,4K (2160p),50
+999.99,Direct Lit,DuraPro,LED,No,Yes,Standard LED,2025,60,Magic,4K (2160p),55
+2797.99,Full Array Local Dimming,Samsung,LED,No,Yes,Mini-LED,2025,120,"Smart, Voice control",8K (4320p),65
+2499.99,Direct Lit,DuraPro,LED,No,Yes,Standard LED,2025,120,Magic,4K (2160p),75
+559.99,Edge Lit,Samsung,LED,No,Yes,QLED,2024,120,"Smart, Voice control",4K (2160p),55
+601.35,None,Samsung,LCD,Yes,Yes,None_OLED,2023,60,Standard,Full HD (1080p),43
+359.99,Full Array Local Dimming,Roku,LED,No,Yes,QLED,2023,60,Voice control,4K (2160p),75
+599.99,Edge Lit,LG,LED,No,Yes,QNED,2024,120,Magic,4K (2160p),55
+699.99,Edge Lit,LG,LED,No,Yes,QNED,2024,60,Magic,4K (2160p),65
+2949.99,Edge Lit,Samsung,LED,No,Yes,QLED,2024,120,"Smart, Voice control",4K (2160p),85
+799.99,Edge Lit,LG,LED,Yes,Yes,QNED,2024,120,Magic,4K (2160p),65
+279.99,Direct Lit,LG,LED,No,Yes,Standard LED,2024,60,Standard,4K (2160p),55
+324.99,None,LG,OLED,Yes,Yes,None_OLED,2024,120,Magic,4K (2160p),65
+699.99,Edge Lit,LG,LED,Yes,Yes,QNED,2024,120,Magic,4K (2160p),55
+1709.99,Full Array Local Dimming,Hisense,LED,No,Yes,Mini-LED QLED,2024,144,"Voice control, Backlit",4K (2160p),85
+249.99,None,Copeland,LED,No,No,Standard LED,2024,120,Standard,HD (720p),24
+1944,None,Samsung,LCD,Yes,Yes,None_OLED,2023,120,Standard,Full HD (1080p),75
+1599.99,None,Samsung,OLED,No,Yes,None_OLED,2024,120,"Smart, Voice control",4K (2160p),77
+105.99,None,Copeland,LCD,No,No,None_OLED,2024,120,Standard,4K (2160p),7
+2279.99,None,LG,OLED,No,Yes,None_OLED,2024,120,Magic,4K (2160p),65
+239.99,Direct Lit,TCL,LED,No,Yes,Standard LED,2024,60,"Standard, Voice control",4K (2160p),50
+174.99,None,Norcent,LED,No,No,Standard LED,2024,120,Standard,HD (720p),32
+199.99,Direct Lit,TCL,LED,No,Yes,Standard LED,2024,60,"Standard, Voice control",4K (2160p),43
+720,Direct Lit,Samsung,LED,No,No,Standard LED,2025,60,Standard,4K (2160p),65
+747.99,None,Panasonic,OLED,No,No,None_OLED,2024,144,Standard,4K (2160p),65
+1097.99,Full Array Local Dimming,Samsung,LED,No,Yes,QLED,2024,120,"Smart, Voice control",4K (2160p),75
+139.99,None,Norcent,LED,No,No,Standard LED,2024,120,Standard,HD (720p),24
+347.99,None,Panasonic,LCD,No,No,None_OLED,2024,120,Standard,4K (2160p),55
+3199,None,Samsung,OLED,No,Yes,None_OLED,2024,120,"Smart, Voice control",4K (2160p),83
+329.99,None,Emerson,LED,No,No,Standard LED,2024,120,Standard,HD (720p),40
+949.99,Edge Lit,Samsung,LED,No,Yes,Standard LED,2024,120,Standard,4K (2160p),85
+2199.99,Full Array Local Dimming,Hisense,LED,No,Yes,Mini-LED QLED,2024,144,Standard,4K (2160p),85
+269.99,None,Supersonic,LED,No,No,Standard LED,2024,120,Standard,Full HD (1080p),32
+2089.99,Full Array Local Dimming,Samsung,LED,No,Yes,Mini-LED,2024,120,"Smart, Voice control",4K (2160p),85
+1079.99,Full Array Local Dimming,LG,LED,Yes,Yes,Mini-LED QNED,2024,120,Magic,4K (2160p),65
+849.99,Direct Lit,Hisense,LED,No,Yes,QLED,2024,144,Voice control,4K (2160p),85
+119.54,None,Westinghouse,OLED,No,No,None_OLED,2021,60,Standard,HD (720p),32
+1699.99,Full Array Local Dimming,Roku,LED,No,Yes,Mini-LED QLED,2024,120,"Voice control, Backlit",4K (2160p),75
+3499.99,Full Array Local Dimming,Sony,LED,No,Yes,Mini-LED,2022,120,Voice control,8K (4320p),75
+427.99,Edge Lit,Samsung,LED,No,Yes,Standard LED,2024,60,Standard,4K (2160p),50
+179.99,Direct Lit,Hisense,LED,No,Yes,QLED,2024,60,Voice control,4K (2160p),43
+799.99,Direct Lit,DuraPro,LED,No,Yes,Standard LED,2025,60,Magic,4K (2160p),43
+1397.99,Edge Lit,Samsung,LED,No,Yes,QLED,2024,144,"Smart, Voice control",4K (2160p),85
+697.99,None,Samsung,LED,No,No,Standard LED,2024,60,Standard,4K (2160p),65
+997.99,Edge Lit,Samsung,LED,No,Yes,QLED,2024,120,"Smart, Voice control",4K (2160p),50
+99.95,None,Sansui,OLED,No,No,None_OLED,2024,120,Standard,Full HD (1080p),32
+1099.99,None,Sony,OLED,No,Yes,None_OLED,2023,120,Voice control,4K (2160p),55
+135.99,None,Naxa,LCD,No,No,None_OLED,2024,120,Standard,HD (720p),14
+1199.99,Full Array Local Dimming,LG,LED,No,Yes,Mini-LED QNED,2025,120,Magic,4K (2160p),65
+3499.99,Full Array Local Dimming,Samsung,LED,No,Yes,Mini-LED,2024,120,"Smart, Voice control",8K (4320p),75
+612.99,None,Samsung,LED,No,No,QLED,2023,120,Standard,Full HD (1080p),32
+158.99,None,Copeland,LED,No,No,Standard LED,2024,120,Standard,HD (720p),24
+424.99,Edge Lit,LG,LED,No,Yes,Standard LED,2023,60,"Magic, Voice control",4K (2160p),55
+634.99,None,LG,LED,Yes,No,QNED,2025,60,Standard,4K (2160p),55
+485,Full Array Local Dimming,Hisense,LED,No,Yes,Mini-LED QLED,2024,120,Voice control,4K (2160p),55
+2197.99,None,Panasonic,OLED,No,No,None_OLED,2024,144,Standard,4K (2160p),55
+447.99,None,Panasonic,LCD,No,No,None_OLED,2024,60,Standard,4K (2160p),65
+594.99,Direct Lit,TCL,LED,No,Yes,QLED,2024,60,"Standard, Voice control",4K (2160p),75
+2804.99,None,LG,OLED,No,Yes,None_OLED,2024,120,Magic,4K (2160p),77
+650,Direct Lit,Samsung,LED,No,Yes,Standard LED,2024,120,Smart,4K (2160p),65
+2199.99,Full Array Local Dimming,TCL,LED,No,Yes,Mini-LED QLED,2024,144,"Backlit, Voice control",4K (2160p),98
+2618,None,Sony,OLED,Yes,Yes,None_OLED,2025,120,Standard,4K (2160p),55
+787.99,Edge Lit,Samsung,LED,No,Yes,QLED,2024,60,"Smart, Voice control",4K (2160p),43
+287.99,None,Samsung,LED,No,No,Standard LED,2025,144,Standard,Full HD (1080p),40
+427.99,Full Array Local Dimming,TCL,LED,No,Yes,QLED,2023,120,"Voice control, Backlit",4K (2160p),55
+189.99,None,Westinghouse,LED,Yes,No,Standard LED,2021,144,Standard,Full HD (1080p),40
+169.99,Direct Lit,Hisense,LED,No,No,Standard LED,2025,144,Standard,Full HD (1080p),43
+247.99,None,Panasonic,LCD,No,No,None_OLED,2024,60,Standard,4K (2160p),43
+339.99,None,Westinghouse,LED,Yes,No,Standard LED,2021,60,Standard,4K (2160p),50
+349.99,None,Philips,LED,No,Yes,QLED,2024,144,Standard,4K (2160p),55
+499.95,Full Array Local Dimming,LG,LED,No,Yes,QNED,2023,60,"Magic, Voice control",4K (2160p),55
+999.99,Full Array Local Dimming,Hisense,LED,No,Yes,Mini-LED QLED,2024,144,"Voice control, Backlit",4K (2160p),75
+3499.99,Full Array Local Dimming,TCL,LED,No,Yes,Mini-LED QLED,2025,144,"Backlit, Voice control",4K (2160p),85
+419.95,None,Sharp,OLED,No,No,None_OLED,2024,144,Standard,4K (2160p),55
+727.99,None,Samsung,OLED,No,No,None_OLED,2025,144,Standard,4K (2160p),75
+297.99,None,Panasonic,LCD,No,No,None_OLED,2024,120,Standard,4K (2160p),50
+299.99,Direct Lit,Hisense,LED,No,Yes,Standard LED,2024,60,Standard,4K (2160p),55
+189.99,None,Supersonic,LED,No,No,Standard LED,2024,60,Standard,Full HD (1080p),0
+1499.99,Direct Lit,DuraPro,LED,No,Yes,Standard LED,2025,120,Magic,4K (2160p),65
+129.99,Direct Lit,Westinghouse,LED,No,No,Standard LED,2021,60,Multifunction,HD (720p),24
+129.99,Direct Lit,RCA,LED,Yes,Yes,Standard LED,2024,60,IR,HD (720p),32
+527.99,Edge Lit,Samsung,LED,No,Yes,QLED,2024,120,"Smart, Voice control",4K (2160p),50
+1488,None,Sony,LED,Yes,Yes,Mini LED,2025,144,Standard,4K (2160p),55
+2797.99,None,Panasonic,OLED,No,No,None_OLED,2024,144,Standard,4K (2160p),65
+2037.99,None,Samsung,OLED,Yes,No,None_OLED,2025,120,Standard,4K (2160p),77
+1199.99,Full Array Local Dimming,Roku,LED,No,Yes,Mini-LED QLED,2024,120,"Voice control, Backlit",4K (2160p),65
+580,Direct Lit,Samsung,LED,No,No,Standard LED,2025,120,Standard,4K (2160p),55
+499.99,Direct Lit,Sony,LED,No,Yes,Standard LED,2023,120,Voice control,4K (2160p),65
+219.99,None,Westinghouse,LED,Yes,No,Standard LED,2021,60,Standard,Full HD (1080p),43
+193.99,Direct Lit,Hisense,LED,No,Yes,QLED,2024,120,Voice control,4K (2160p),55
+299.99,None,Westinghouse,LED,Yes,No,Standard LED,2021,144,Standard,4K (2160p),50
+499,None,Samsung,LED,No,No,Standard LED,2025,60,Standard,4K (2160p),55
+267.99,None,Samsung,LED,No,No,Standard LED,2025,120,Standard,Full HD (1080p),40
+203.99,None,Copeland,LED,No,No,Standard LED,2024,120,Standard,HD (720p),24
+1199.99,Full Array Local Dimming,Samsung,LED,Yes,Yes,Neo QLED,2023,120,"Voice control, Smart",4K (2160p),75
+1297.99,None,Panasonic,OLED,No,No,None_OLED,2024,120,Standard,4K (2160p),65
+996.99,None,LG,OLED,Yes,Yes,None_OLED,2025,120,Standard,4K (2160p),42
+1529.99,None,LG,OLED,Yes,Yes,None_OLED,2024,120,Magic,4K (2160p),77
+897.99,Full Array Local Dimming,TCL,LED,No,Yes,Mini-LED QLED,2024,144,"Backlit, Voice control",4K (2160p),65
+933,None,LG,LCD,No,Yes,None_OLED,2021,120,Standard,Full HD (1080p),55
+289,Direct Lit,Hisense,LED,No,Yes,Standard LED,2021,120,Voice control,4K (2160p),43
+699,Direct Lit,Samsung,LED,No,Yes,Standard LED,2024,120,Standard,4K (2160p),75
+1869.99,Full Array Local Dimming,LG,LED,Yes,Yes,Mini-LED QNED,2024,120,Magic,4K (2160p),86
+629.99,Full Array Local Dimming,Hisense,LED,No,Yes,Mini-LED QLED,2024,60,Voice control,4K (2160p),75
+139.99,None,Supersonic,LED,No,No,Standard LED,2024,60,Standard,Full HD (1080p),12
+479.99,Edge Lit,Samsung,LED,No,Yes,QLED,2024,120,"Smart, Voice control",4K (2160p),32
+1299.99,Full Array Local Dimming,Hisense,LED,No,Yes,Mini-LED QLED,2024,144,"Voice control, Backlit",4K (2160p),85
+1199.99,Full Array Local Dimming,TCL,LED,No,Yes,Mini-LED QLED,2024,144,"Backlit, Voice control",4K (2160p),75
+1599.99,Edge Lit,LG,LED,Yes,Yes,QNED,2024,120,Magic,4K (2160p),86
+199.99,None,Supersonic,LED,No,No,Standard LED,2024,120,Standard,Full HD (1080p),24
+2197.99,Full Array Local Dimming,Samsung,LED,No,Yes,QLED,2024,120,"Smart, Voice control",4K (2160p),85
+1133,None,Samsung,LCD,Yes,Yes,None_OLED,2023,480,Standard,4K (2160p),65
+2296.9,None,LG,OLED,No,Yes,None_OLED,2023,120,"Magic, Voice control",4K (2160p),77
+189.99,None,Westinghouse,LED,Yes,No,Standard LED,2021,120,Standard,Full HD (1080p),40
+189.9,None,Westinghouse,OLED,No,No,None_OLED,2021,144,Standard,Full HD (1080p),43
+997.99,None,Hisense,OLED,No,No,None_OLED,2025,144,Standard,4K (2160p),0
+382.99,Direct Lit,Hisense,LED,No,Yes,Standard LED,2024,120,Standard,4K (2160p),65
+299.99,Direct Lit,LG,LED,No,Yes,Standard LED,2024,120,Standard,4K (2160p),55
+1176.97,Full Array Local Dimming,Samsung,LED,No,Yes,Mini-LED,2024,120,"Smart, Voice control",4K (2160p),55
+695,Full Array Local Dimming,Hisense,LED,No,Yes,Mini-LED QLED,2024,144,"Voice control, Backlit",4K (2160p),65
+249.99,None,Westinghouse,LED,Yes,No,Standard LED,2025,120,Standard,4K (2160p),43
+1603.97,None,Samsung,LED,No,No,QLED,2024,120,Standard,4K (2160p),55
+149.99,None,Philips,LED,No,No,Standard LED,2024,120,Standard,Full HD (1080p),40
+2549.99,Full Array Local Dimming,Hisense,LED,No,Yes,Mini-LED QLED,2024,144,Standard,4K (2160p),75
+599.99,Direct Lit,DuraPro,LED,No,Yes,Standard LED,2025,120,Standard,4K (2160p),43
+139.99,None,Norcent,LED,No,No,Standard LED,2024,120,Standard,HD (720p),24
+897.99,None,Panasonic,LCD,No,No,None_OLED,2024,120,Standard,4K (2160p),85
+529.99,Direct Lit,Sony,LED,No,Yes,Standard LED,2023,60,Voice control,4K (2160p),50
+1397.99,None,Samsung,OLED,Yes,No,None_OLED,2025,120,Standard,4K (2160p),65
+219.87,Direct Lit,Hisense,LED,No,No,Standard LED,2023,60,Voice control,Full HD (1080p),40
+869.99,None,Sharp,OLED,No,No,None_OLED,2024,60,Standard,4K (2160p),75
+897.99,None,Panasonic,LCD,No,No,None_OLED,2024,144,Standard,4K (2160p),75
+189.99,Direct Lit,RCA,LED,Yes,Yes,Standard LED,2024,120,Standard,Full HD (1080p),43
+1096.99,None,LG,OLED,Yes,Yes,None_OLED,2025,120,Standard,4K (2160p),48
+1597.99,None,Samsung,OLED,Yes,Yes,None_OLED,2024,120,"Smart, Voice control",4K (2160p),48
+259.99,None,Supersonic,LED,No,No,Standard LED,2024,60,Standard,Full HD (1080p),24
+399.99,None,Philips,LED,No,Yes,Standard LED,2024,60,Standard,4K (2160p),65
+219.99,None,Westinghouse,LED,Yes,No,Standard LED,2021,120,Standard,Full HD (1080p),43
+1126.03,None,LG,OLED,Yes,Yes,None_OLED,2024,120,Magic,4K (2160p),42
+497.99,Edge Lit,Samsung,LED,No,Yes,QLED,2024,60,"Smart, Voice control",4K (2160p),43
+179.43,None,JVC,LED,Yes,No,Standard LED,2024,120,Standard,HD (720p),32
+597.99,None,Samsung,LED,No,No,Standard LED,2024,60,Standard,4K (2160p),55
+647.99,None,Samsung,LED,No,No,QLED,2023,60,Standard,Full HD (1080p),32
+597.99,None,Samsung,LED,No,No,QLED,2023,120,Standard,Full HD (1080p),32
+269.99,Direct Lit,RCA,LED,Yes,Yes,Standard LED,2024,60,IR,4K (2160p),50
+122.99,None,Naxa,LCD,No,No,None_OLED,2024,60,Standard,HD (720p),7
+1399.99,Full Array Local Dimming,Samsung,LED,Yes,Yes,Neo QLED,2023,120,"Voice control, Smart",4K (2160p),85
+499,Edge Lit,Samsung,LED,No,Yes,Standard LED,2024,120,Standard,4K (2160p),43
+139.99,None,Westinghouse,OLED,No,No,None_OLED,2021,120,Standard,HD (720p),24
+997.95,Full Array Local Dimming,Samsung,LED,No,Yes,QLED,2024,60,"Smart, Voice control",4K (2160p),50
+169.99,None,Westinghouse,OLED,No,No,None_OLED,2021,120,Standard,HD (720p),32
+997.99,Edge Lit,Samsung,LED,No,Yes,QLED,2024,60,Standard,4K (2160p),43
+557.99,Full Array Local Dimming,Samsung,LED,No,Yes,Standard LED,2019,120,Smart,4K (2160p),65
+1337.99,Full Array Local Dimming,LG,LED,No,Yes,Mini-LED QNED,2024,120,Magic,8K (4320p),75
+289.99,None,LG,LED,No,No,Standard LED,2025,60,Standard,4K (2160p),43
+177.99,None,Supersonic,LED,Yes,No,Standard LED,2024,120,Standard,Full HD (1080p),24
+597.99,None,Samsung,LED,No,No,Standard LED,2024,120,Standard,4K (2160p),55
+499.99,Full Array Local Dimming,Roku,LED,No,Yes,Mini-LED QLED,2024,120,"Voice control, Backlit",4K (2160p),55
+1020,Direct Lit,Samsung,LED,No,No,Standard LED,2025,120,Standard,4K (2160p),75
+647.99,None,Samsung,LED,No,No,QLED,2023,120,Standard,Full HD (1080p),32
+450.99,Full Array Local Dimming,Hisense,LED,No,Yes,Mini-LED QLED,2024,144,Voice control,4K (2160p),65
+797.99,Edge Lit,Samsung,LED,No,Yes,QLED,2021,120,Voice control,4K (2160p),65
+1197.99,None,Panasonic,OLED,No,No,None_OLED,2024,144,Standard,4K (2160p),85
+2468.52,None,Samsung,LED,Yes,No,QLED,2023,144,Standard,4K (2160p),75
+664.99,Direct Lit,LG,LED,No,Yes,NanoCell LED,2022,60,"Magic, Voice control",4K (2160p),55
+199.99,None,Copeland,LED,No,No,Standard LED,2024,120,Standard,HD (720p),32
+259.99,Full Array Local Dimming,Samsung,LED,Yes,Yes,Neo QLED,2023,120,"Voice control, Smart",4K (2160p),55
+999.99,Full Array Local Dimming,Samsung,LED,No,Yes,Neo QLED,2024,120,Standard,4K (2160p),65
+215.99,Direct Lit,Hisense,LED,No,Yes,Standard LED,2024,60,Standard,4K (2160p),50
+1519.99,Edge Lit,Samsung,LED,No,Yes,QLED,2023,120,"Voice control, Smart",4K (2160p),85
+188.99,Edge Lit,LG,LED,No,Yes,QNED,2023,120,"Magic, Voice control",4K (2160p),55
+3039.99,Edge Lit,Samsung,LED,No,Yes,QLED,2023,120,"Smart, Voice control",4K (2160p),75
+807.99,Direct Lit,Sony,LED,No,Yes,Standard LED,2023,60,Voice control,4K (2160p),65
+1299,Direct Lit,LG,LED,No,Yes,Standard LED,2022,60,Standard,4K (2160p),75
+1044.88,Edge Lit,LG,LED,Yes,Yes,QNED,2024,120,Magic,4K (2160p),50
+54.99,Direct Lit,Samsung,LED,No,Yes,Standard LED,2022,60,Standard,4K (2160p),43
+1997.99,Edge Lit,Samsung,LED,No,Yes,QLED,2024,120,Standard,4K (2160p),65
+2286.95,None,LG,OLED,Yes,Yes,None_OLED,2024,120,Magic,4K (2160p),83
+1197.99,Full Array Local Dimming,Samsung,LED,No,Yes,QLED,2023,120,"Voice control, Smart",4K (2160p),65
+829,Edge Lit,Samsung,LED,No,Yes,Standard LED,2023,144,Smart,4K (2160p),70
+1549,Direct Lit,Samsung,LED,No,Yes,Standard LED,2024,120,Standard,4K (2160p),85
+2297.99,Full Array Local Dimming,Samsung,LED,No,Yes,Neo QLED,2022,120,Standard,4K (2160p),75
+949,Edge Lit,Samsung,LED,No,Yes,QLED,2023,120,"Voice control, Smart",4K (2160p),65
+696.99,Edge Lit,LG,LED,No,Yes,QNED,2023,60,"Magic, Voice control",4K (2160p),65
+219.95,Direct Lit,Westinghouse,LED,No,No,Standard LED,2021,60,Multifunction,Full HD (1080p),43
+1699.99,Edge Lit,Samsung,LED,No,Yes,QLED,2024,120,"Smart, Voice control",4K (2160p),85
+499.99,None,Copeland,LED,No,No,Standard LED,2024,60,Standard,4K (2160p),50
+2999.99,None,Samsung,OLED,Yes,No,None_OLED,2025,120,Standard,4K (2160p),75
+2118,None,Sony,LED,Yes,Yes,Mini LED,2025,60,Standard,4K (2160p),75
+1588,None,Sony,LED,Yes,Yes,Mini LED,2025,120,Standard,4K (2160p),65
+1500,Direct Lit,Samsung,LED,No,No,Standard LED,2025,120,Standard,4K (2160p),85
+173.99,None,Naxa,LED,No,No,Standard LED,2024,120,Standard,HD (720p),32
+801,None,Samsung,LCD,Yes,Yes,None_OLED,2023,480,Standard,4K (2160p),50
+2598,None,Sony,LED,Yes,Yes,Mini LED,2025,60,Standard,4K (2160p),85
+647.99,None,Samsung,LED,No,No,QLED,2023,144,Standard,Full HD (1080p),32
+1299.99,None,Sharp,OLED,No,No,None_OLED,2024,120,Standard,4K (2160p),65
+1296.99,None,LG,LED,Yes,No,QNED,2025,120,Standard,4K (2160p),75
+599,None,Samsung,LED,No,No,QLED,2025,120,Standard,Full HD (1080p),32
+227.99,None,Supersonic,LED,No,No,Standard LED,2024,120,Standard,Full HD (1080p),32
+193.99,None,Supersonic,LED,No,No,Standard LED,2024,120,Standard,Full HD (1080p),0
+1496.99,None,LG,LED,No,No,QNED,2025,120,Standard,4K (2160p),75
+529,None,Samsung,LED,No,No,Standard LED,2024,60,Standard,4K (2160p),55
+2047.99,None,Samsung,OLED,Yes,No,None_OLED,2024,120,Standard,4K (2160p),77
+1347.99,None,Samsung,LED,No,No,QLED,2024,120,Standard,4K (2160p),65
+723.65,None,Samsung,LCD,Yes,No,None_OLED,2025,60,Standard,4K (2160p),43
+997.99,None,Samsung,LED,No,No,Standard LED,2024,120,Standard,4K (2160p),55
+2848.62,None,Samsung,LED,Yes,No,QLED,2023,120,Standard,4K (2160p),85
+1222,None,LG,LED,Yes,No,QNED,2025,60,Standard,4K (2160p),75
+779.95,None,Sansui,OLED,No,No,None_OLED,2024,120,Standard,4K (2160p),75
+509,None,Samsung,LED,No,No,Standard LED,2024,60,Standard,4K (2160p),55
+705.33,None,Samsung,LCD,No,No,None_OLED,2025,60,Standard,4K (2160p),43
+3381.99,None,LG,OLED,No,Yes,None_OLED,2025,120,Magic,4K (2160p),77
+647.99,None,Panasonic,LCD,No,No,None_OLED,2024,60,Standard,4K (2160p),75
+249.99,Direct Lit,Pioneer,LED,No,Yes,Standard LED,2025,60,IR,4K (2160p),50
+2697.99,None,Samsung,OLED,Yes,No,None_OLED,2024,120,Standard,4K (2160p),77
+119,Direct Lit,Westinghouse,LED,No,No,Standard LED,2025,120,"Voice control, IR",HD (720p),24
+3097.99,None,Samsung,LCD,Yes,Yes,None_OLED,2023,480,Standard,Full HD (1080p),75
+209.99,None,Supersonic,LED,No,No,Standard LED,2024,120,Standard,Full HD (1080p),0
+1497.99,Edge Lit,Samsung,LED,No,Yes,QLED,2024,120,Standard,4K (2160p),55
+152.99,None,Supersonic,LED,No,No,Standard LED,2024,60,Standard,Full HD (1080p),0
+1096.99,None,LG,OLED,No,No,None_OLED,2025,120,Standard,4K (2160p),55
+1903.97,None,Samsung,LED,No,No,QLED,2024,120,Standard,4K (2160p),65
+1397.99,None,Samsung,LED,No,No,QLED,2024,120,Standard,4K (2160p),65
+1147.99,None,Panasonic,OLED,No,No,None_OLED,2024,120,Standard,4K (2160p),55
+2596.99,None,LG,OLED,Yes,Yes,None_OLED,2025,120,Standard,4K (2160p),65
+169.99,None,Supersonic,LED,No,No,Standard LED,2024,60,Standard,Full HD (1080p),0
+1997.99,None,Panasonic,OLED,No,No,None_OLED,2024,144,Standard,4K (2160p),65
+299.99,None,Copeland,LED,No,No,Standard LED,2024,60,Standard,Full HD (1080p),40
+239.99,None,Naxa,LED,No,No,Standard LED,2024,60,Standard,HD (720p),32
+146.99,None,Supersonic,LED,No,No,Standard LED,2024,60,Standard,Full HD (1080p),13
+449.9,None,TCL,OLED,No,No,None_OLED,2025,60,Standard,4K (2160p),65
+199.99,None,Supersonic,LED,No,No,Standard LED,2024,60,Standard,Full HD (1080p),0
+1203.97,None,Samsung,LED,No,No,QLED,2023,120,Standard,Full HD (1080p),32
+249.99,None,Copeland,LED,No,No,Standard LED,2024,120,Standard,HD (720p),32
+129.99,None,Supersonic,LED,No,No,Standard LED,2024,60,Standard,Full HD (1080p),0
+177.99,None,Naxa,LED,No,No,Standard LED,2024,60,Standard,Full HD (1080p),25
+1586.99,None,LG,OLED,Yes,Yes,None_OLED,2025,120,Standard,4K (2160p),65
+194.99,None,Supersonic,LED,No,No,Standard LED,2024,120,Standard,Full HD (1080p),22
+132.99,None,Supersonic,LED,No,No,Standard LED,2024,120,Standard,Full HD (1080p),13
+111.99,None,Supersonic,LCD,No,No,None_OLED,2024,120,Standard,HD (720p),9
+173.99,None,Supersonic,LED,No,No,Standard LED,2024,120,Standard,Full HD (1080p),19
+98.99,None,Supersonic,LCD,No,No,None_OLED,2024,60,Standard,HD (720p),9
+240.99,None,Supersonic,LED,No,No,Standard LED,2024,60,Standard,Full HD (1080p),32
+212.99,None,Supersonic,LED,No,No,Standard LED,2024,120,Standard,Full HD (1080p),32
+169.99,None,Supersonic,LED,No,No,Standard LED,2024,60,Standard,Full HD (1080p),22
+3196.99,None,LG,OLED,Yes,Yes,None_OLED,2025,120,Standard,4K (2160p),83
+1996.99,None,LG,OLED,Yes,No,None_OLED,2025,120,Standard,4K (2160p),55
+2496.99,None,LG,OLED,Yes,Yes,None_OLED,2025,120,Standard,4K (2160p),77
+1196.99,None,LG,OLED,Yes,Yes,None_OLED,2025,120,Standard,4K (2160p),55
+299.99,Direct Lit,Westinghouse,LED,No,Yes,Standard LED,2025,120,"Voice control, IR",4K (2160p),58
+547.99,None,Panasonic,LCD,No,No,None_OLED,2024,144,Standard,4K (2160p),70
+169,Direct Lit,Pioneer,LED,No,No,Standard LED,2025,120,IR,Full HD (1080p),40
+2250.12,Full Array Local Dimming,Sony,LED,No,Yes,Mini-LED,2023,120,Voice control,4K (2160p),75
