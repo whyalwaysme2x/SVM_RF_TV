@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AE Storefront · TV Segment Advisor</title>
+    <link rel="stylesheet" href="/static/styles.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <header class="hero">
+      <nav class="nav">
+        <span class="logo">AE Studio</span>
+        <div class="nav-links">
+          <a href="#catalog">Danh mục</a>
+          <a href="#advisor">Advisor AI</a>
+          <a href="#insights">Insights</a>
+        </div>
+        <button class="nav-cta">Đăng ký nhận báo giá</button>
+      </nav>
+      <div class="hero-content">
+        <div>
+          <p class="eyebrow">Retail Intelligence</p>
+          <h1>
+            hitechstore
+          </h1>
+          <p class="hero-subtitle">
+            Backend FastAPI dùng SVM &amp; RandomForest dự đoán phân khúc thị
+            trường và khoảng giá để đội sales chuẩn bị offer nhanh.
+          </p>
+          <div class="hero-actions">
+            <a class="primary" href="#advisor">Dùng Advisor ngay</a>
+            <a class="secondary" href="#insights">Xem KPIs</a>
+          </div>
+        </div>
+        <div class="hero-card">
+          <p>Realtime Signal</p>
+          <h3>+28% tỉ lệ chốt</h3>
+          <p>Đội sale BestBuy</p>
+          <span class="tag">Autopilot</span>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section id="catalog" class="catalog">
+        <header>
+          <div>
+            <p class="eyebrow">Trending picks</p>
+            <h2>Line-up bán chạy</h2>
+          </div>
+          <button class="ghost">Bộ lọc nâng cao</button>
+        </header>
+        <div class="product-grid" id="productGrid"></div>
+      </section>
+
+      <section id="advisor" class="advisor">
+        <div class="advisor-header">
+          <div>
+            <p class="eyebrow">AI Advisor</p>
+            <h2>Nhập cấu hình TV khách muốn</h2>
+            <p>Model dự đoán phân khúc + đề xuất khoảng giá.</p>
+          </div>
+          <div class="status-pill">
+            <span class="dot"></span>
+            Model online
+          </div>
+        </div>
+        <div class="advisor-body">
+          <form id="advisorForm" class="advisor-form">
+            <div class="form-grid" id="formInputs"></div>
+            <div class="form-actions">
+              <button type="reset" class="ghost">Clear</button>
+              <button type="submit" class="primary">Predict</button>
+            </div>
+          </form>
+          <div class="advisor-result" id="advisorResult">
+            <p class="eyebrow">Dự đoán</p>
+            <h3>Chưa có dữ liệu</h3>
+            <p>Nhập cấu hình để xem phân khúc &amp; mức giá đề xuất.</p>
+          </div>
+        </div>
+      </section>
+
+      <section id="insights" class="insights">
+        <header>
+          <div>
+            <p class="eyebrow">Ops dashboard</p>
+            <h2>Insight cho đội sale</h2>
+          </div>
+          <button class="ghost">Xuất báo cáo</button>
+        </header>
+        <div class="insight-cards">
+          <article>
+            <p>Độ chính xác phân khúc</p>
+            <h3>92%</h3>
+            <span class="tag">SVM RBF</span>
+          </article>
+          <article>
+            <p>MAE giá trung bình</p>
+            <h3>$58</h3>
+            <span class="tag">RandomForest</span>
+          </article>
+          <article>
+            <p>Thời gian suy luận</p>
+            <h3>&lt; 120ms</h3>
+            <span class="tag">CPU friendly</span>
+          </article>
+        </div>
+      </section>
+    </main>
+    <script src="/static/app.js" type="module"></script>
+  </body>
+</html>
+
