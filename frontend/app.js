@@ -32,20 +32,35 @@ const FIELD_CONFIG = [
 
 const SAMPLE_PRODUCTS = [
   {
-    name: "Neo QLED 65QN90C",
-    brand: "Samsung",
-    price: "$1,999",
-    tag: "Premium",
-  },
-  {
-    name: "Bravia XR A80L",
+    name: "Sony 4K 65 inch",
     brand: "Sony",
     price: "$1,799",
     tag: "Premium",
   },
-  { name: "X80K 55''", brand: "Sony", price: "$779", tag: "Mid" },
-  { name: "U7K 50''", brand: "Hisense", price: "$599", tag: "Mid" },
-  { name: "TU7000 43''", brand: "Samsung", price: "$329", tag: "Entry" },
+  {
+    name: "Hisense 32 inch",
+    brand: "Hisense",
+    price: "$329",
+    tag: "Entry",
+  },
+  {
+    name: "Xiaomi A32",
+    brand: "Xiaomi",
+    price: "$299",
+    tag: "Entry",
+  },
+  {
+    name: "TCL 32T31",
+    brand: "TCL",
+    price: "$399",
+    tag: "Mid",
+  },
+  {
+    name: "Smart TV Design",
+    brand: "Premium",
+    price: "$1,299",
+    tag: "Premium",
+  },
 ];
 
 const productGrid = document.getElementById("productGrid");
@@ -60,16 +75,25 @@ buildFormFields();
 bootstrap();
 
 function renderProducts() {
+  // Dùng cùng 1 ảnh cho tất cả sản phẩm
+  const imagePath = 'ảnh/android-tivi-led-hisense-32-inch-32a4n-1-638685824829514383-700x467.jpg';
+  const imageUrl = `/static/${encodeURIComponent(imagePath)}`;
+  
   productGrid.innerHTML = SAMPLE_PRODUCTS.map(
     (item) => `
       <article class="product-card">
+        <div class="product-image">
+          <img src="${imageUrl}" alt="${item.name}" loading="lazy" />
+        </div>
         <span class="tag">${item.tag}</span>
-        <strong>${item.name}</strong>
-        <p>${item.brand}</p>
-        <footer>
-          <span>${item.price}</span>
-          <button class="ghost">Chi tiết</button>
-        </footer>
+        <div class="product-card-content">
+          <strong>${item.name}</strong>
+          <p>${item.brand}</p>
+          <footer>
+            <span>${item.price}</span>
+            <button class="ghost">Chi tiết</button>
+          </footer>
+        </div>
       </article>
     `
   ).join("");

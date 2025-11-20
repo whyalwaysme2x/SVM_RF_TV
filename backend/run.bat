@@ -15,9 +15,7 @@ if errorlevel 1 (
 
 echo.
 echo [1/2] Installing/updating dependencies...
-cd backend
 pip install -r requirements.txt --quiet
-cd ..
 
 echo.
 echo [2/2] Starting FastAPI server...
@@ -29,7 +27,6 @@ echo.
 echo Press Ctrl+C to stop the server
 echo.
 
-cd backend
 python main.py
 
 pause

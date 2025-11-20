@@ -35,6 +35,7 @@ pip install -r requirements.txt
 
 ### Cách 1: Sử dụng script
 ```bash
+cd backend
 run.bat
 ```
 
